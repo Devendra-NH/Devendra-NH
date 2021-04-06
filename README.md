@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Devendra-NH
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning web development and web security
+- 👋 Hi, I’m Devendra Hyalij
+- 👀 I’m interested in web-development and web application security
+- 🌱 I’m currently learning deep concepts about web development and web security
 - 💞️ I’m looking to collaborate on web application related services
 - 📫 How to reach me :- devendranh364@gmail.com
 
